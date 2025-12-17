@@ -1,0 +1,2 @@
+database wizard : for creating site db and catalog db
+Project env : for creating model

@@ -1,0 +1,8 @@
+this is a sample text file
+	to Practise 
+		my Git Skills
+
+just added a change to see if the git tracks this change or not after (this change is added after one day of running git init in the 
+									parent directory).
+
+yes it does track the changefgsdfgsg

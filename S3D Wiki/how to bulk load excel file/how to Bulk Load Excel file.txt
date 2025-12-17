@@ -1,0 +1,10 @@
+open path and search for bulk load application
+follow the image in this folder 
+
+
+if 
+Server name doesnot match with the Gci name 
+	open ssms(18) right click server and click on register
+		then click on test button it will be successful
+					if not we don't know what to do
+		and then click on save button then open bulk load again and follow the image in this folder

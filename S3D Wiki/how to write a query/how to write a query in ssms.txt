@@ -1,0 +1,3 @@
+open ssms by searching in start menu
+
+click database and Right click on CDB and click new query

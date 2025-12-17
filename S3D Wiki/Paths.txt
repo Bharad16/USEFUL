@@ -1,0 +1,6 @@
+Bulk load Data Files : M:\CatalogData\BulkLoad\DataFiles
+Bulk load Application : M:\CatalogData\BulkLoad\Bin
+MDR (model data reuse):xroot\toolsshortcut in the Projtenv
+SomTest : X:\Container\Bin\Assemblies\Debug
+Test Impact Analyzeir : X:\Tools\Developer\Bin\TestImpactAnalyzer
+Patcher : X:\Bldtools\Tools\PatcherV16.exe

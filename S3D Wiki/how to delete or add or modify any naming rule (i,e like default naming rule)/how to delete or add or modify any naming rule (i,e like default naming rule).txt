@@ -1,0 +1,1 @@
+open GenericNamingRules in bulkload datafiles and add(a for append ,d for delete etc..) in the first column besides the desired columns and bulk load that excel 

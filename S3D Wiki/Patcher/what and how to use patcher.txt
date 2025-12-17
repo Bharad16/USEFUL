@@ -1,0 +1,6 @@
+what is it? 
+	it is shows all the dll to be build for the selected modified file
+
+
+Select the files that are modified , un check the wix dependencies , it shows all the dll or typelib to be build and we can directly
+build all of them by clicking build.
