@@ -1,1 +1,1 @@
-nothing just to test the brach and merger feature of git .
+nothing just to test the branch and merger feature of git .
